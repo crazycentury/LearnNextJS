@@ -1,6 +1,6 @@
-import '@/app/ui/global.css';
-import { inter } from './ui/fonts';
-
+import SideNav from '@/app/ui/dashboard/sidenav';
+import { inter } from '@/app/ui/fonts';
+ 
 export default function RootLayout({
   children,
 }: {
